@@ -1,11 +1,11 @@
 /*My very first style sheet comment */
 
-/* body {
+body {
     font-family: 'Courier New', Courier, monospace;
     background-color: aliceblue;
     background-image: url("pictures/background.webp");   
 
-} */
+}
 
 h1 {
     
