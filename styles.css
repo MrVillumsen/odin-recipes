@@ -1,7 +1,7 @@
 /*My very first style sheet comment */
-*{
-    /* border: 2px solid black; */
-}
+/* *{
+    border: 2px solid black;
+} */
 
 body {
     font-family: 'Courier New', Courier, monospace;
@@ -35,11 +35,7 @@ h1 {
     padding: 0%;
 }
 
-#chickensnitzel{
-    /* Jeg aner ikke hvad jeg skal bruge det til endnu */
-}
-
-button{
+button {
     border: none;
     margin: 0%;
     padding: 0%;
