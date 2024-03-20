@@ -1,4 +1,7 @@
 /*My very first style sheet comment */
+*{
+    /* border: 2px solid black; */
+}
 
 body {
     font-family: 'Courier New', Courier, monospace;
@@ -12,29 +15,40 @@ h1 {
     font-size: 70px;
     font-weight: 700;
     color: rgb(190, 228, 203);
-    background-color: brown;
+    background-color: orangered;
     max-width: max-content;
     margin: 0 auto;
 
+    
+
 }
 .recipe-links{
-    font-size: 30px;
     text-align: center;
+   
 }
 
 .recipe-list {
     color: rgb(190, 228, 203);
     list-style: none;
-    border-style: dotted;
-    height: fit-content;
-    width: fit-content;
-    display: inline-block;
-    background-color: brown;
+    /* display: block; */
+    background-color: orangered;
+    padding: 0%;
 }
 
+#chickensnitzel{
+    /* Jeg aner ikke hvad jeg skal bruge det til endnu */
+}
+
+button{
+    border: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: orangered;
+}
 a {
     color:rgb(190, 228, 203);
-    background-color: brown;
+    background-color: orangered;
     text-decoration: none;
     font-weight: 700;
+    font-size: 40px;
 }
